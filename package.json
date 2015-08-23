@@ -1,13 +1,13 @@
 {
   "name": "generator-lebowski",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "defite/generator-lebowski",
+  "repository": "Defite/generator-lebowski",
   "author": {
     "name": "Nikita Makhov",
-    "email": "defite@gmail.com",
+    "email": "me@defite.ru",
     "url": "https://github.com/Defite"
   },
   "scripts": {
