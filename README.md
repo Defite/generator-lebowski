@@ -1,4 +1,4 @@
-# generator-lebowski [![Build Status](https://secure.travis-ci.org/defite/generator-lebowski.png?branch=master)](https://travis-ci.org/defite/generator-lebowski)
+# generator-lebowski [![Build Status](https://secure.travis-ci.org/Defite/generator-lebowski.png?branch=master)](https://travis-ci.org/Defite/generator-lebowski)
 
 > [Yeoman](http://yeoman.io) generator
 
